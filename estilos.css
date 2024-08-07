@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+
+.contendor{
+    background-color: indigo;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+p{
+    font-size: xx-large ;
+    padding: 10%;
+}
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(15%,0);
+}
+
+#noBtn{
+    position-anchor: 70%;
+}
